@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>extreme-startup-spring-boot-java</name>
-    <description>Starter Extreme Sartup Spring Boot Java</description>
+    <description>Starter Extreme Startup Spring Boot Java</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
